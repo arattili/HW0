@@ -10,5 +10,5 @@ https://csc510-fall2017.slack.com/messages/C6QFZBTM5/team/arattili/
 https://youtu.be/p8Ikpuawov0
 
 
-##### Git excercise completeion (With extra credit)
+##### Git excercise completion (With extra credit)
 ![Screenshot](Overview.png)
